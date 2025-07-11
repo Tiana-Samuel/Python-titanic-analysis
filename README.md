@@ -56,8 +56,8 @@ You can view the notebook directly in this repo or run it locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/titanic-analysis.git
-cd titanic-analysis
+git clone https://github.com/Tiana-Samuel/Python-titanic-analysis.git
+cd Python-titanic-analysis
 
 # Open the notebook
-jupyter notebook titanic_analysis.ipynb
+jupyter notebook Titanic analysis.ipynb
